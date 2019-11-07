@@ -1,0 +1,78 @@
+body {
+  background-color: #0A173A;
+}
+
+/* .nav {
+  background-color: #F01A24;
+  width: 125px;
+  height: 100%;
+  margin-left: 0;
+} */
+
+.mainbackground {
+  position: fixed;
+}
+
+.photos {
+  position: relative;
+  }
+
+.cloth {
+  position: absolute;
+  width: 680px;
+  height: auto;
+  left: 155px;
+}
+
+.spoon {
+  position: absolute;
+  left: 590px;
+}
+
+.mint {
+  position: absolute;
+  top: 0;
+}
+
+.dish {
+  position: absolute;
+  top: -40px;
+  right: 0;
+  height: 100%
+}
+
+.rosem {
+  position: absolute;
+  right: 0;
+  top: 1050px;
+}
+
+.mouse {
+  position: absolute;
+  bottom: 10px;
+}
+
+.main {
+  left: 135px;
+}
+
+.text {
+  color: white;
+  position: absolute;
+  left: 130px;
+}
+
+.title {
+  color: #F01A24;
+}
+
+.first-paragraph {
+  position: absolute;
+  width: 611.21px;
+  height: 128.62px;
+  }
+
+.element {
+  position: absolute;
+  bottom: 0;
+}
